@@ -417,6 +417,6 @@ function updateLabels() {
     jAbs.get("spanPowTime").textContent = gVal.currFreeTime;
 }
 
-
+ 
 
 
